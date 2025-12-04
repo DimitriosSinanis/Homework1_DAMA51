@@ -9,6 +9,8 @@ This repository contains the R code and documentation for the first written assi
 
 The assignment focuses on data analysis, statistical correlation, and the use of Data Frames in R, utilizing two primary datasets: Coffee Sales and Red Wine Quality.
 
+
+
 📂 Repository Structure
 
 The submission requires one document file and a compressed file containing R scripts. This repository reflects the contents of the compressed file.
@@ -22,6 +24,8 @@ The submission requires one document file and a compressed file containing R scr
 ├── Sinanis-Topic4.R       # R script for Topic 4: Data Frames 
 
 └── README.md              # This file
+
+
 
 
 🛠️ Setup and Execution
@@ -41,6 +45,8 @@ Important Note on File Reading:The R scripts employ interactive methods (e.g., f
 Execution Guidelines
 
 The R script files must run automatically using the Code -> Source File menu item in RStudio without producing any errors.All requested results are printed to the console, and all requested plots are drawn in the plots window.Comments are included before each command to explain its functionality.All numerical answers are given to three decimal places unless otherwise stated.
+
+
 
 
 📋 Detailed Assignment Topics
